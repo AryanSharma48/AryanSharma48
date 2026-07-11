@@ -4,9 +4,10 @@
 
 **Systems Engineer · FullStack Developer · DevOps**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aryansharma.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aryansharma.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryansharma24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansharma24)
-[![Twitter](https://img.shields.io/badge/Twitter-Aryan27417343-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Aryan27417343)
+<a href="https://aryansharma.dev"><img src="https://cdn.simpleicons.org/vercel/white" width="28" height="28" alt="Portfolio" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/aryansharma24"><img src="https://cdn.simpleicons.org/linkedin/white" width="28" height="28" alt="LinkedIn" /></a> &nbsp;&nbsp;
+<a href="https://x.com/Aryan27417343"><img src="https://cdn.simpleicons.org/x/white" width="28" height="28" alt="Twitter/X" /></a>
+<br><br>
 
 <table>
 <tr>
