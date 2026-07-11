@@ -3,11 +3,7 @@
 ## ARYAN SHARMA
 
 **Systems Engineer · FullStack Developer · DevOps**
-
-<a href="https://aryansharma.dev"><img src="https://cdn.simpleicons.org/vercel/white" width="28" height="28" alt="Portfolio" /></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/aryansharma24"><img src="https://cdn.simpleicons.org/linkedin/white" width="28" height="28" alt="LinkedIn" /></a> &nbsp;&nbsp;
-<a href="https://x.com/Aryan27417343"><img src="https://cdn.simpleicons.org/x/white" width="28" height="28" alt="Twitter/X" /></a>
-<br><br>
+<br>
 
 <table>
 <tr>
